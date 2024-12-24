@@ -102,12 +102,4 @@ My skills in HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, and 
 
 ###
 
-###
-
-## <br clear="both">
-
-## <img src="https://raw.githubusercontent.com/Amanw-25/Amanw-25/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br/>  
+ 
