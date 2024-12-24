@@ -94,6 +94,6 @@ My skills in HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, and 
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Amanw-25&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Amanw-25&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
