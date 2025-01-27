@@ -34,18 +34,21 @@ Skills:
 
 ## 🌐 CONNECT WITH ME HERE:
 <p align="left">
-  <a href="https://aportfolio-25.vercel.app/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="amanwairagkar" />
+  <a href="https://aportfolio-25.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="amanwairagkar" style="margin-right: 10px;" />
   </a>
-  <a href="https://www.linkedin.com/in/amanwairagkar/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="amanwairagkar" />
+  <a href="https://www.linkedin.com/in/amanwairagkar/" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="amanwairagkar" style="margin-right: 10px;" />
   </a>
-  <a href="https://leetcode.com/u/amanw-25/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="amanwairagkar" />
+  <a href="https://leetcode.com/u/amanw-25/" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="amanwairagkar" style="margin-right: 10px;" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/amanwaibl7j/" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="amanwairagkar" /></a>
-
+  <a href="https://www.geeksforgeeks.org/user/amanwaibl7j/" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="amanwairagkar" style="margin-right: 10px;" />
+  </a>
 </p>
+
+
 
 ---
 
@@ -54,10 +57,10 @@ Skills:
 ### Full Stack Development
 | Project         | Description                                         | Tech Stack               |
 |-----------------|-----------------------------------------------------|--------------------------|
-| [Kissan Mitra](https://github.com/Amanw-25/Kissan-Mitra) | Built an AI-driven platform for crop yield prediction, disease detection, and fertilizer recommendations   | React, NodeJs, ExpressJs, WebSocket ,MongoDB          |
-| [Vital Link ](https://github.com/Amanw-25/VitalLink) | Doctor Appointment Booking System | React.js, Node.js, Express.js, MongoDB |
+| [Kissan Mitra](https://github.com/Amanw-25/Kissan-Mitra) | Built an AI-driven platform for crop yield prediction, disease detection, and fertilizer recommendations   | React, NodeJs, ExpressJs, WebSocket,MongoDB          |
+| [Vital Link ](https://vitals-link.vercel.app/) | Doctor Appointment Booking System | React.js, Node.js, Express.js, MongoDB |
 | [CII Website](https://cii-delta.vercel.app/) | A Website made for Confederation of Indian Industries            | React, NodeJs, ExpressJs, ReCharts,MongoDB         |
-| [TravelNest](https://github.com/amanw-25/travel-nest) | A travel planner app with RESTful APIs             | HTML, CSS, JavaScript, MongoDB , EJS        |
+| [TravelNest](https://travel-plan-jqt4.onrender.com/listings) | A travel planner app with RESTful APIs             | HTML, CSS, JavaScript, MongoDB , EJS        |
 | [Portfolio Website](https://aportfolio-25.vercel.app/) | Personal portfolio showcasing my work and skills   | React.js, Tailwind CSS                  |
 
 ---
