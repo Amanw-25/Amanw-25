@@ -22,7 +22,7 @@
     - role: "Full-stack Developer ", "Youngovator"
     - role: "Backend Developer ", "Confederation of Indian Industries"
     - role: "Full-stac Developer ", "Code Clause"
-    - achievement: "Top 2 Finalist from Madhya Pradesh ", "Bit N Build International Hackathon 2024"
+    - achievement: "Top-2 Finalist from Madhya Pradesh ", "Bit N Build International Hackathon 2024"
     - achievement: "4th Position" , "SKITM National Hackathon 2024"
 Skills:
     - "Frontend: HTML, CSS, JavaScript, React.js, Redux, Tailwind CSS"
