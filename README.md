@@ -60,6 +60,7 @@ Skills:
 | Project         | Description                                         | Tech Stack               |
 |-----------------|-----------------------------------------------------|--------------------------|
 | [Kissan Mitra](https://github.com/Amanw-25/Kissan-Mitra) | Built an AI-driven platform for crop yield prediction, disease detection, and fertilizer recommendations   | React, NodeJs, ExpressJs, WebSocket,MongoDB          |
+| [Sustainify ](https://sustainify-v2.vercel.app/) | Automated Sustainability Web Portal | React.js, Node.js, Express.js, MongoDB , Stripe , Twilio , Cron Jobs  |
 | [Vital Link ](https://vitals-link.vercel.app/) | Doctor Appointment Booking System | React.js, Node.js, Express.js, MongoDB |
 | [CII Website](https://cii-delta.vercel.app/) | A Website made for Confederation of Indian Industries            | React, NodeJs, ExpressJs, ReCharts,MongoDB         |
 | [TravelNest](https://travel-plan-jqt4.onrender.com/listings) | A travel planner app with RESTful APIs             | HTML, CSS, JavaScript, MongoDB , EJS        |
