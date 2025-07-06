@@ -68,7 +68,7 @@ Skills:
 
 ---
 
-## Skill Set  
+<!--  ## Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -114,7 +114,7 @@ Skills:
 </div>
 
 </td></tr></table>  
-
+-->
 <br/>  
 
 ## Github stats:
