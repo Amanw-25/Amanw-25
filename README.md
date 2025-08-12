@@ -17,7 +17,7 @@
   Specialization: "Full-Stack Web Development"
   Education:
     degree: "Bachelors in Computer Science"
-    university: "Acropolis Instiute of TEchnology and Research"
+    university: "Acropolis Institute Of Technology And Research - AITR"
     CGPA: "8.3/10"
 
   Current Company : Eventory 
