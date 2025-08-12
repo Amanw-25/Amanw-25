@@ -18,20 +18,29 @@
   Education:
     degree: "Bachelors in Computer Science"
     university: "Acropolis Instiute of TEchnology and Research"
-    CGPA: "8.2/10"
-  Current_Project: "Sustainify - A sustainable living guide portal"
+    CGPA: "8.3/10"
+
+  Current Company : Eventory 
+  Role : Full Stack Developer
+
   Past_Experiences:
     - role: "Full-stack Developer ", "Youngovator"
     - role: "Backend Developer ", "Confederation of Indian Industries"
-    - role: "Full-stac Developer ", "Code Clause"
+    - role: "Full-stack Developer ", "Code Clause"
     - achievement: "Top-2 Finalist from Madhya Pradesh ", "Bit N Build International Hackathon 2024"
     - achievement: "4th Position" , "SKITM National Hackathon 2024"
-Skills:
-    - "Frontend: HTML, CSS, JavaScript, React.js, Redux, Tailwind CSS"
-    - "Backend: Node.js, Express.js, MongoDB"
-    - "Programming: Python, C++, Java"
+
+  Skills:
+  - "Frontend: HTML, CSS, JavaScript, TypeScript, React.js, Redux, Next.js, Tailwind CSS"
+  - "Backend: Node.js, Express.js, RESTful APIs, MongoDB, MySQL"
+  - "Cloud & DevOps: AWS S3, AWS SES, AWS SQS, Meta WhatsApp Cloud API, Docker"
+  - "Programming: Python, C++, Java"
+  - "Tools: Git, GitHub, Postman"
+
   Currently_Learning:
-    - "Advanced RESTful APIs"
+  - "Advanced RESTful API Design"
+  - "Microservices Architecture"
+  - "Event-driven Architecture with AWS"
 ```
 
 ## 🌐 CONNECT WITH ME HERE:
